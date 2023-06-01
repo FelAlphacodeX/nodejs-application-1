@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://172.31.31.209:8081/repository/maxwell-project/"
+    "registry": "http://172.31.80.38:8081/repository/myNodejs-project/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
